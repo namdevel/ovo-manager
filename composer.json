@@ -1,0 +1,21 @@
+{
+    "name": "namdevel/ovo-manager",
+    "description": "Manage OVO Account via web",
+    "type": "library",
+    "require": {
+        "namdevel/ovoid-api": "1.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Namdevel\\OvoManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "namdevel",
+            "email": "namdevel@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
