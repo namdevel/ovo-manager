@@ -3,7 +3,8 @@
     "description": "Manage OVO Account via web",
     "type": "library",
     "require": {
-        "namdevel/ovoid-api": "1.2"
+        "namdevel/ovoid-api": "1.2",
+        "namdevel/gopay-api": "1.1"
     },
     "license": "MIT",
     "autoload": {
